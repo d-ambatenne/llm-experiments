@@ -1,0 +1,25 @@
+# IDE / editor
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Dataset
+input.txt
+
+# Claude Code project notes (local)
+CLAUDE.md
+.claude/
+
+# Learning notebooks (kept local)
+bigram-model.ipynb
+nano-gpt.ipynb
+self-attention-understanding.ipynb
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
