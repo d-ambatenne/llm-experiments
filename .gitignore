@@ -8,6 +8,8 @@
 
 # Dataset
 input.txt
+input_full.txt
+input_full_clean.txt
 
 # Claude Code project notes (local)
 CLAUDE.md
